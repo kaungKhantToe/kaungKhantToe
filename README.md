@@ -2,4 +2,4 @@
 - 👀 I’m interested in ...Software Development: whether front-end or backend
 - 🌱 I’m currently learning ...Java and Python while working on databases and other languages
 - 💞️ I’m looking to collaborate on ...Java projects with moderate difficulty to sharpen my skills
-- 📫 How to reach me ... email: toekaungkhant753@gmail.com
+- 📫 How to reach me ... Email: toekaungkhant753@gmail.com
